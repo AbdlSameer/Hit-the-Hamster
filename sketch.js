@@ -29,7 +29,7 @@ function setup()
 
 function draw()
 {
-  background("green")
+  background("white")
   hamster.x = random(10,displayWidth-200);
   hamster.y = random(10,displayHeight-100);
 
